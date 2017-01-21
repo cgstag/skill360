@@ -1,0 +1,4 @@
+CREATE TABLE member (
+	id INT NOT NULL AUTO_INCREMENT PRIMARY KEY IDENTITY,
+	name varchar(50),
+)
